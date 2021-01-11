@@ -3,7 +3,7 @@ This is short introduction to Computer Vision with examples using the python cod
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/dani-lbnl/introvision/blob/master/vision.png" width="300">
+    <td><img src="https://github.com/dani-lbnl/introvision/blob/master/cameracomputervision.png" width="300">
     </td>
     <td>
      <p>
