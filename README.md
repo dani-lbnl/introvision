@@ -1,5 +1,5 @@
 # Introduction to Computer vision
-This is short introduction to Computer Vision with examples using the python codes.
+This is short introduction to Computer Vision with examples using the python scientific software stack.
 
 <table border="0">
  <tr>
@@ -15,7 +15,7 @@ This is short introduction to Computer Vision with examples using the python cod
  </tr>
 </table>
 
-## Jupyter notebooks:  
+## Tutorials with Jupyter notebooks:  
 - SuperComputing 2020 [[short tutorial]](https://github.com/dani-lbnl/SC20_pyHPC) with Matt McCormick
 
 - Microct analysis [[full course]](https://github.com/CameraIA/dipmicroct/tree/master/partII)  
