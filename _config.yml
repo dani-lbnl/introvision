@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: [Introvision]
-description: [Introduction to Computer Vision]
-logo: [https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png]
-show_downloads: ["true"]
+title: Introvision
+description: Introduction to Computer Vision
+logo: /assets/img/cameracomputervision.png
+show_downloads: true
