@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+title: [Introvision: an introduction to Computer Vision]
+description: [Do you want to make sense of your pictures using systematic and programatically designed schemes? This tutorial is for you.]
+logo: [https://github.com/dani-lbnl/introvision/blob/main/cameracomputervision.png]
+show_downloads: ["true"]
