@@ -19,8 +19,8 @@ This is short introduction to Computer Vision with examples using the python sci
 - SuperComputing 2020 [[short tutorial]](https://github.com/dani-lbnl/SC20_pyHPC) with Matt McCormick
 
 - Microct analysis [[full course]](https://github.com/CameraIA/dipmicroct/tree/master/partII)  
-    - [[Google Colaboratory - lesson01]](https://drive.google.com/file/d/1l3nUSw5N2QQgcZqlO9gULRN3PHrkde6Q/view?usp=sharing)
-    - [[Google Colaboratory - lesson02]](https://drive.google.com/file/d/1GX3Gp0IgqCCn7KbpwG2LVsVCKKyGd-45/view?usp=sharing)
+    - Lesson 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1l3nUSw5N2QQgcZqlO9gULRN3PHrkde6Q/view?usp=sharing)
+    - Lesson 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GX3Gp0IgqCCn7KbpwG2LVsVCKKyGd-45/view?usp=sharing)
     
 - ISBI'19 tutorial on image analysis with skimage [[long tutorial]](https://github.com/dani-lbnl/isvc2019) with Alex Siqueira and Stefan van der Walt    
 
