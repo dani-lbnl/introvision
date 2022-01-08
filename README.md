@@ -1,5 +1,5 @@
 # Introduction to Computer vision
-This is short introduction to Computer Vision with examples using the python scientific software stack.
+This is a short introduction to Computer Vision, containing examples on image filtering, 2D and 3D representations, as well as pixel classification and visualization schemes. These are used for the construction of pipelines and workflows using several scientific python libraries, such as scikit-learn, scikit-image, and itkwidgets.
 
 <table border="0">
  <tr>
