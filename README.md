@@ -27,7 +27,8 @@ This is a short introduction to Computer Vision, containing examples on image fi
 - Microct analysis [[full course]](https://github.com/CameraIA/dipmicroct/tree/master/partII) CAMERA Tomography Workshop 2019 by Ushizima, Siqueira, Miramontes  
     - Lesson 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1l3nUSw5N2QQgcZqlO9gULRN3PHrkde6Q/view?usp=sharing)
     - Lesson 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GX3Gp0IgqCCn7KbpwG2LVsVCKKyGd-45/view?usp=sharing)
-    
+
+- Deep dive on skimage [[tutorial]](https://scipy-lectures.org/packages/scikit-image/index.html) by Gouillart
 
 ## Need some ground-work?
 
