@@ -16,19 +16,21 @@ This is a short introduction to Computer Vision, containing examples on image fi
 </table>
 
 ## Tutorials with Jupyter notebooks:  
-- Refresh some concepts in case you need: [[link]](https://swcarpentry.github.io/2015-05-04-lbl/) by Software carpentry
+1. Refresh some concepts in case you need: [[link]](https://swcarpentry.github.io/2015-05-04-lbl/) by Software carpentry
 
-- Learn how to read images e create your own filters: [[link]](https://datacarpentry.org/image-processing/) by Data carpentry
+2. Learn how to read images e create your own filters: [[link]](https://datacarpentry.org/image-processing/) by Data carpentry
 
-- Explore skimage with this ISBI'19 tutorial [[long tutorial]](https://github.com/dani-lbnl/isvc2019) by Siqueira, van der Walt, Ushizima
+3. Discover how to use computer vision to measure plant roots: [[link]](http://bit.ly/wdevision2023) 
 
-- Enjoy visualization with itkwidgets: [[short tutorial]](https://github.com/dani-lbnl/SC20_pyHPC) SuperComputing 2020 by Ushizima, McCormick
+4. Explore skimage with this ISBI'19 tutorial [[long tutorial]](https://github.com/dani-lbnl/isvc2019) by Siqueira, van der Walt, Ushizima
 
-- Microct analysis [[full course]](https://github.com/CameraIA/dipmicroct/tree/master/partII) CAMERA Tomography Workshop 2019 by Ushizima, Siqueira, Miramontes  
+5. Enjoy visualization with itkwidgets: [[short tutorial]](https://github.com/dani-lbnl/SC20_pyHPC) SuperComputing 2020 by Ushizima, McCormick
+
+6. Microct analysis [[full course]](https://github.com/CameraIA/dipmicroct/tree/master/partII) CAMERA Tomography Workshop 2019 by Ushizima, Siqueira, Miramontes  
     - Lesson 1: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1l3nUSw5N2QQgcZqlO9gULRN3PHrkde6Q/view?usp=sharing)
     - Lesson 2: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1GX3Gp0IgqCCn7KbpwG2LVsVCKKyGd-45/view?usp=sharing)
 
-- Deep dive on skimage [[tutorial]](https://scipy-lectures.org/packages/scikit-image/index.html) by Gouillart
+7. Deep dive on skimage [[tutorial]](https://scipy-lectures.org/packages/scikit-image/index.html) by Gouillart
 
 ## Need some ground-work?
 
