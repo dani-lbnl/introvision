@@ -16,7 +16,7 @@ This is a short introduction to Computer Vision, containing examples on image fi
 </table>
 
 ## Tutorials with Jupyter notebooks:  
-1. Refresh some concepts in case you need: [[link]](https://swcarpentry.github.io/2015-05-04-lbl/) by Software carpentry
+1. Tutorial for material scientists: [[link]](https://github.com/dani-lbnl/2024_als_user_meeting) by Dani Ushizima
 
 2. Learn how to read images e create your own filters: [[link]](https://datacarpentry.org/image-processing/) by Data carpentry
 
